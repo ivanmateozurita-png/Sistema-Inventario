@@ -1,6 +1,6 @@
 # 📦 Enterprise Inventory & Sales Management System
 
-¡Hola! Soy Mateo Zurita. Este es un sistema integral de gestión de inventarios y punto de venta (POS) que desarrollé completamente en Java. 
+Este es un sistema integral de gestión de inventarios y punto de venta (POS) que desarrollé completamente en Java. 
 
 Mi objetivo principal con este proyecto fue demostrar mi capacidad para construir aplicaciones de escritorio sólidas, escalables y, sobre todo, orientadas a la administración comercial utilizando las mejores prácticas de la industria.
 
